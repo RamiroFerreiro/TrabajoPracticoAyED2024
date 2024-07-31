@@ -1,0 +1,208 @@
+# depslib dependency file v1.0
+1717371692 source:c:\users\ramir\desktop\parciales ayed\parcial 3\trabajopracticoayed2024\main.c
+	<stdio.h>
+	<stdlib.h>
+	"materia.h"
+	"inscripto.h"
+	"lista.h"
+	"materiaAprobada.h"
+	"guarani.h"
+
+1717376409 source:c:\users\ramir\desktop\parciales ayed\parcial 3\trabajopracticoayed2024\materia.c
+	<stdio.h>
+	<stdlib.h>
+	"materia.h"
+
+1717375994 c:\users\ramir\desktop\parciales ayed\parcial 3\trabajopracticoayed2024\materia.h
+	"lista.h"
+	"cola.h"
+	"inscripto.h"
+
+1716379055 source:c:\users\ramir\desktop\parciales ayed\parcial 3\trabajopracticoayed2024\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1716379021 c:\users\ramir\desktop\parciales ayed\parcial 3\trabajopracticoayed2024\nodo.h
+
+1717376780 source:c:\users\ramir\desktop\parciales ayed\parcial 3\trabajopracticoayed2024\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1717377331 c:\users\ramir\desktop\parciales ayed\parcial 3\trabajopracticoayed2024\lista.h
+	"nodo.h"
+
+1717376637 source:c:\users\ramir\desktop\parciales ayed\parcial 3\trabajopracticoayed2024\inscripto.c
+	<stdio.h>
+	<stdlib.h>
+	"inscripto.h"
+	<string.h>
+
+1717376152 c:\users\ramir\desktop\parciales ayed\parcial 3\trabajopracticoayed2024\inscripto.h
+	"lista.h"
+	"materia.h"
+	"materiaAprobada.h"
+
+1717296005 source:c:\users\ramir\desktop\parciales ayed\parcial 3\trabajopracticoayed2024\materiaaprobada.c
+	<stdio.h>
+	<stdlib.h>
+	"materiaAprobada.h"
+
+1717296005 c:\users\ramir\desktop\parciales ayed\parcial 3\trabajopracticoayed2024\materiaaprobada.h
+
+1717377020 source:c:\users\ramir\desktop\parciales ayed\parcial 3\trabajopracticoayed2024\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+
+1717150778 c:\users\ramir\desktop\parciales ayed\parcial 3\trabajopracticoayed2024\cola.h
+	"nodo.h"
+
+1717377390 source:c:\users\ramir\desktop\parciales ayed\parcial 3\trabajopracticoayed2024\guarani.c
+	<stdio.h>
+	<stdlib.h>
+	"guarani.h"
+
+1717377390 c:\users\ramir\desktop\parciales ayed\parcial 3\trabajopracticoayed2024\guarani.h
+	"lista.h"
+	"materia.h"
+
+1717377020 source:c:\users\ramir\desktop\trabajopracticoayed2024\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+
+1717150778 c:\users\ramir\desktop\trabajopracticoayed2024\cola.h
+	"nodo.h"
+
+1716379021 c:\users\ramir\desktop\trabajopracticoayed2024\nodo.h
+
+1717377390 source:c:\users\ramir\desktop\trabajopracticoayed2024\guarani.c
+	<stdio.h>
+	<stdlib.h>
+	"guarani.h"
+
+1717377390 c:\users\ramir\desktop\trabajopracticoayed2024\guarani.h
+	"lista.h"
+	"materia.h"
+
+1717377331 c:\users\ramir\desktop\trabajopracticoayed2024\lista.h
+	"nodo.h"
+
+1717375994 c:\users\ramir\desktop\trabajopracticoayed2024\materia.h
+	"lista.h"
+	"cola.h"
+	"inscripto.h"
+
+1717376152 c:\users\ramir\desktop\trabajopracticoayed2024\inscripto.h
+	"lista.h"
+	"materia.h"
+	"materiaAprobada.h"
+
+1717296005 c:\users\ramir\desktop\trabajopracticoayed2024\materiaaprobada.h
+
+1717376637 source:c:\users\ramir\desktop\trabajopracticoayed2024\inscripto.c
+	<stdio.h>
+	<stdlib.h>
+	"inscripto.h"
+	<string.h>
+
+1717376780 source:c:\users\ramir\desktop\trabajopracticoayed2024\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1717371692 source:c:\users\ramir\desktop\trabajopracticoayed2024\main.c
+	<stdio.h>
+	<stdlib.h>
+	"materia.h"
+	"inscripto.h"
+	"lista.h"
+	"materiaAprobada.h"
+	"guarani.h"
+
+1717376409 source:c:\users\ramir\desktop\trabajopracticoayed2024\materia.c
+	<stdio.h>
+	<stdlib.h>
+	"materia.h"
+
+1717296005 source:c:\users\ramir\desktop\trabajopracticoayed2024\materiaaprobada.c
+	<stdio.h>
+	<stdlib.h>
+	"materiaAprobada.h"
+
+1716379055 source:c:\users\ramir\desktop\trabajopracticoayed2024\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1717377020 source:c:\users\ramir\desktop\algoritmos y estructuras de datos\trabajopracticoayed2024\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+
+1717150778 c:\users\ramir\desktop\algoritmos y estructuras de datos\trabajopracticoayed2024\cola.h
+	"nodo.h"
+
+1716379021 c:\users\ramir\desktop\algoritmos y estructuras de datos\trabajopracticoayed2024\nodo.h
+
+1717377390 source:c:\users\ramir\desktop\algoritmos y estructuras de datos\trabajopracticoayed2024\guarani.c
+	<stdio.h>
+	<stdlib.h>
+	"guarani.h"
+
+1717377390 c:\users\ramir\desktop\algoritmos y estructuras de datos\trabajopracticoayed2024\guarani.h
+	"lista.h"
+	"materia.h"
+
+1717377331 c:\users\ramir\desktop\algoritmos y estructuras de datos\trabajopracticoayed2024\lista.h
+	"nodo.h"
+
+1717375994 c:\users\ramir\desktop\algoritmos y estructuras de datos\trabajopracticoayed2024\materia.h
+	"lista.h"
+	"cola.h"
+	"inscripto.h"
+
+1717376152 c:\users\ramir\desktop\algoritmos y estructuras de datos\trabajopracticoayed2024\inscripto.h
+	"lista.h"
+	"materia.h"
+	"materiaAprobada.h"
+
+1717296005 c:\users\ramir\desktop\algoritmos y estructuras de datos\trabajopracticoayed2024\materiaaprobada.h
+
+1717376637 source:c:\users\ramir\desktop\algoritmos y estructuras de datos\trabajopracticoayed2024\inscripto.c
+	<stdio.h>
+	<stdlib.h>
+	"inscripto.h"
+	<string.h>
+
+1717376780 source:c:\users\ramir\desktop\algoritmos y estructuras de datos\trabajopracticoayed2024\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1717371692 source:c:\users\ramir\desktop\algoritmos y estructuras de datos\trabajopracticoayed2024\main.c
+	<stdio.h>
+	<stdlib.h>
+	"materia.h"
+	"inscripto.h"
+	"lista.h"
+	"materiaAprobada.h"
+	"guarani.h"
+
+1717376409 source:c:\users\ramir\desktop\algoritmos y estructuras de datos\trabajopracticoayed2024\materia.c
+	<stdio.h>
+	<stdlib.h>
+	"materia.h"
+
+1717296005 source:c:\users\ramir\desktop\algoritmos y estructuras de datos\trabajopracticoayed2024\materiaaprobada.c
+	<stdio.h>
+	<stdlib.h>
+	"materiaAprobada.h"
+
+1716379055 source:c:\users\ramir\desktop\algoritmos y estructuras de datos\trabajopracticoayed2024\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
